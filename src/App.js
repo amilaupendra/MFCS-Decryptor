@@ -46,7 +46,7 @@ function App() {
 
       <nav class="navbar bg-body-tertiary">
         <div class="nav container-fluid">
-          <a class="navbar-brand" href="#">
+          <a class="navbar-brand" href="app">
             <img src={Logo} alt="Logo" width="60" height="60" class="d-inline-block align-text-top"/>
             <span className="logoName">MFCS DECRYPTOR</span>
           </a>
